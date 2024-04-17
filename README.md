@@ -296,7 +296,7 @@ def main():
 if _name_ == "_main_":
     main()
 ```
-
+```
 <hr>
 <h2>Sample Input and Output</h2>
 
